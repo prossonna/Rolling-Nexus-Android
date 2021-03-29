@@ -1,0 +1,217 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Helvetica, sans-serif,sans-serif!important;
+    font-size: 14px;
+    color: #666;
+    scroll-behavior: smooth;
+}
+html {
+    scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
+    color: unset;
+}
+a:hover {
+    text-decoration: none;
+}
+p {
+    margin: 5px 0;
+}
+ul li {
+    margin: 5px 0 12px;
+}
+ol li {
+    margin: 8px 0;
+}
+
+/* Rolling Tender Banner */
+.btn-download-app {
+    padding-top: 530px;
+    padding-left: 45px;
+    /* text-align: center; */
+}
+button.btn-download {
+    border: none;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background: #4fb140;
+    color: #FFF;
+    outline: none;
+}
+/* .btn-download-app label {
+    font-size: 15px;
+} */
+.screenshot-slider {
+    padding: 30px 0;
+}
+.screenshot-slider .item {
+    margin: 5px;
+}
+.screenshot-slider .owl-nav.disabled {
+    display: block !important;
+}
+.screenshot-slider .owl-nav.disabled {
+    display: block !important;
+    position: absolute;
+    width: 100% !important;
+    bottom: 230px;
+    text-align: center;
+}
+.screenshot-slider button.owl-prev {
+    position: absolute;
+    left: -35px;
+    outline: none;
+}
+.screenshot-slider button.owl-next {
+    position: absolute;
+    right: -35PX;
+    outline: none;
+}
+.screenshot-slider i.fa.fa-chevron-left {
+    font-size: 20px;
+    background: white;
+    padding: 7px 10px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 3px 0px #d0c0c0
+}
+.screenshot-slider i.fa.fa-chevron-right {
+    font-size: 20px;
+    background: white;
+    padding: 7px 10px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 3px 0px #d0c0c0
+}
+p.slider-heading {
+    font-size: 18px;
+    color: #000;
+    font-weight: 600;
+}
+p.slider-content {
+    margin-bottom: 15px;
+}
+p.content-collapse-p {
+    text-transform: uppercase;
+    color: #2196f3;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 12px;
+}
+span.content-title {
+    font-weight: 600;
+}
+.logo-wrap {
+    padding: 15px 0;
+}
+.l2 {
+    display: flex;
+}
+p.l5-title {
+    font-size: 18px;
+    color: #000;
+    font-weight: 600;
+}
+.l4 {
+    height: 155px;
+    box-shadow: 1px 2px 3px 4px #f1f1f1;
+    width: 155px;
+}
+img.l4-img {
+    width: 150px;
+    height: 150px;
+}
+.l5 {
+    margin: 0 20px;
+}
+.l6 {
+    display: flex;
+}
+.l7 {
+    margin: 10px 25px 10px 0;
+    padding: 10px 20px 10px 0px;
+    text-align: center;
+    position: relative;
+}
+.l5-divider {
+    padding: 1px;
+    background: #666;
+    position: absolute;
+    right: 0;
+    height: 20px;
+    bottom: 20px;
+}
+p.l7-d {
+    font-size: 12px;
+    margin: unset;
+}
+p.l7-c {
+    margin: unset;
+    font-size: 12px;
+}
+.l3 {
+    text-align: right;
+}
+
+button.btn-l3-download {
+    border: none;
+    padding: 8px 35px;
+    font-size: 16px;
+    font-weight: 600;
+    outline: none;
+    background: #4fb140;
+    color: #FFF;
+}
+
+/* counter */
+section#counter-wrap {
+    padding: 50px;
+    background: #a2c6e0ad;
+}
+img.counter-img {
+    width: 100px;
+    height: 100px;
+}
+.counter-box {
+    text-align: center;
+    padding: 10px;
+}
+p.counter-title {
+    font-size: 20px;
+    color: #000;
+    font-weight: 700;
+}
+p.counter-count {
+    font-size: 18px;
+}
+.counter-box:hover {
+    box-shadow: 1px 2px 7px 0px #fff;
+}
+
+
+/* Install Procedure */
+.heading-wrap {
+    margin: 50px 0 30px;
+}
+h3.install-p-heading {
+    color: #000;
+    margin: 10px 0 10px;
+    font-weight: 600;
+}
+h4.install-heading {
+    color: #ad4242;
+}
+p.i-w-p {
+    margin: 15px 0;
+    color: #000;
+    font-weight: 600;
+    font-size: 16px;
+}
+.list-img {
+    margin: 20px 0 30px;
+}
+img.img-install-p {
+    width: 300px;
+    height: auto;
+}
+  
